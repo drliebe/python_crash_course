@@ -1,0 +1,18 @@
+films = ['James Bond', 'Star Wars', 'Lord of the Rings', 'Marvel']
+print(films[0])
+print(films[-1])
+films.append('DC')
+print(films)
+films.insert(2,'Star Trek')
+print(films)
+films.sort()
+print(films)
+films.reverse()
+print(films)
+del films[5]
+print(films)
+print(films.pop())
+print(films)
+films.remove('Lord of the Rings')
+print(films)
+print(len(films))

@@ -1,0 +1,3 @@
+# This is a comment. It should normally be descriptive and useful...
+favorite_number = 42
+print(str(favorite_number))
